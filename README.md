@@ -5,7 +5,7 @@
 ## Table Of Contents
 * App Preview
 * Dataset Link
-* Business Problem
+* Data Definition
 * Machine Learning based Solution
 * Installation
 * Languages Used
